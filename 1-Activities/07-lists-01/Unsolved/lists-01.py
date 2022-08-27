@@ -1,5 +1,5 @@
 # Create a list, `list_1`,  with `0`, `1`, `2`, `3` as values.
-
+list_1 = [0, 1, 2, 3] 
 
 # Create a list, `list_2` with `4`, `5`, `6`, `7` as values.
 
@@ -11,7 +11,7 @@
 
 
 # Print the 3rd index of `list_1`.
-
+print(list_1[3-1])
 
 # Print the 1st index of `list_2`.
 
