@@ -1,16 +1,9 @@
 # Define a function `having_fun` that prints "Functions are FUN!".
-def having_fun()
-    print("Functions are FUN!")
 
 # Define a function `thirty_seven` that prints the sum of 18 and 19.
-def thirty_seven()
-    x = 18 + 19
-    return x
+
 
 # Call the two functions you've defined so far.
-having_fun()
-
-print(thirty_seven())
 
 
 # Define a function `hello` that takes in a string parameter and prints the parameter variable.

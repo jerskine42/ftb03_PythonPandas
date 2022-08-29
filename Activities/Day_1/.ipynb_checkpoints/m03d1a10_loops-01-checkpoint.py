@@ -1,8 +1,8 @@
 # Declare an empty list named `our_list`.
-our_list = []
+
 
 # Use the `append` list function to append the number 1 into `our_list`.
-our_list.append[1]
+
 
 # Append the string "hello" into `our_list`.
 

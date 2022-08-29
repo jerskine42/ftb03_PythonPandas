@@ -33,3 +33,72 @@ Use the Terminal Cheatsheet if you need guidance on which terminal commands shou
 ---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+(base)
+jersk@MSI MINGW64 ~
+$ cd 003_FinTech/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech
+$ cd git/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git
+$ ls
+02.2_Python/           ftb02_Python_Intro/  python-homework/  Untitled1.ipynb
+ftb01_IntroToFinTech/  ftb03_PythonPandas/  Untitled.ipynb
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git
+$ pwd
+/c/Users/jersk/003_FinTech/git
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git
+$ cd ftb03_PythonPandas/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas (main)
+$ ls
+Activities/  Challenge_03/  code/  data/  images/  README.md  references/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas (main)
+$ mkdir Activity-1
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas (main)
+$ cd Activity-1/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ touch hello.md
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ cp hello.md world.md
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ ls
+hello.md  world.md
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ mkdir terminal
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ mv world.md terminal/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ ls
+hello.md  terminal/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ cd terminal/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1/terminal (main)
+$ ls
+world.md
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1/terminal (main)
+$ cd ..
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ rm -r terminal/
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$ ls
+hello.md
+(base)
+jersk@MSI MINGW64 ~/003_FinTech/git/ftb03_PythonPandas/Activity-1 (main)
+$
